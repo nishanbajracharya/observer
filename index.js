@@ -38,3 +38,5 @@ class Observer {
     return data;
   }
 }
+
+module.exports = Observer;

@@ -1,0 +1,25 @@
+{
+  "name": "observer",
+  "version": "1.0.0",
+  "description": "A utility to observe changes to a value based on the observer pattern",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishanbajracharya/observer.git"
+  },
+  "keywords": [
+    "observer"
+  ],
+  "author": "Nishan Bajracharya <nisbaj11@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nishanbajracharya/observer/issues"
+  },
+  "homepage": "https://github.com/nishanbajracharya/observer#readme"
+}
