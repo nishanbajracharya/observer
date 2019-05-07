@@ -1,4 +1,4 @@
-const Observer = require('../lib/observer.min');
+const Observer = require('../lib/observer.cjs');
 
 // Create a new observer
 const observer = new Observer();
