@@ -39,4 +39,6 @@ class Observer {
   }
 }
 
-module.exports = Observer;
+if (typeof module !== 'undefined') {
+  module.exports = Observer;
+}
